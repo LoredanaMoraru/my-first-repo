@@ -1,1 +1,7 @@
 creare fisier screenshot
+01-initialize-repository.png
+02-add-file-to-staging.png
+03-add-file-gitignore.png
+04-push-repo.png
+05-verificare-GitHub.png
+
